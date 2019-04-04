@@ -26,7 +26,7 @@ notes:
   - text: This is one of the earliest known Old Latin inscriptions, and possibly *the* earliest. It appears on a brooch known as the Praeneste Fibula, dated to the first half of the 7th century BCE. See the [Wikipedia page](https://en.wikipedia.org/wiki/Praeneste_fibula) for more information.
 ---
 \trs-prac manios:med:vhe;vhaked:numasioi
-\trs-lat  𐌌𐌀𐌍𐌉𐌏𐌔⁚𐌌𐌄𐌃⁚𐌅𐌇𐌄⁝𐌅𐌇𐌀𐌊𐌄𐌃⁚𐌍u𐌌𐌀𐌔𐌉𐌏𐌉
+\trs-lat  𐌌𐌀𐌍𐌉𐌏𐌔⁚𐌌𐌄𐌃⁚𐌅𐌇𐌄⁝𐌅𐌇𐌀𐌊𐌄𐌃⁚𐌍𐌖𐌌𐌀𐌔𐌉𐌏𐌉
 \tln-lat  MANIUS ME FECIT NUMERIO
 \tln-mod  Mānius mē fecit Numeriō
 \tln-eng  Manius made me for Numerius
