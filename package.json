@@ -1,0 +1,24 @@
+{
+  "name": "old-latin",
+  "version": "1.0.0",
+  "description": "Linguistic data in Old Latin",
+  "main": "convert.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwhieb/Old-Latin.git"
+  },
+  "keywords": [
+    "Latin"
+  ],
+  "author": "Daniel W. Hieber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwhieb/Old-Latin/issues"
+  },
+  "homepage": "https://github.com/dwhieb/Old-Latin#readme",
+  "devDependencies": {
+    "@digitallinguistics/transliterate": "^0.1.4",
+    "yamljs": "^0.3.0"
+  }
+}

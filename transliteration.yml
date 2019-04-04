@@ -2,8 +2,8 @@
 
 '*':   𐌟
 '.':   · # interpunct (word divider)
-'..':  ⁚ # two vertical dots (word divider)
-':':   ⁝ # three vertical dots (reduplication indicator)
+':':  ⁚ # two vertical dots (word divider)
+';':   ⁝ # three vertical dots (reduplication indicator)
 '...': ⁖ # three dots (sentence divider)
 1:     𐌠
 5:     𐌡
