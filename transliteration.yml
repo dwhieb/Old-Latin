@@ -1,0 +1,42 @@
+# This file contains a transliteration schema from simple Latin-based characters to Old Italic characters, numerals, and punctuation.
+
+'*':   𐌟
+'.':   · # interpunct (word divider)
+'..':  ⁚ # two vertical dots (word divider)
+':':   ⁝ # three vertical dots (reduplication indicator)
+'...': ⁖ # three dots (sentence divider)
+1:     𐌠
+5:     𐌡
+10:    𐌢
+50:    𐌣
+a:     𐌀
+b:     𐌁
+ch:    𐌙
+d:     𐌃
+dz:    𐌜
+e:     𐌄
+f:     𐌚
+g:     𐌂
+h:     𐌇
+i:     𐌉
+ii:    𐌝
+k:     𐌊
+ks:    𐌎
+l:     𐌋
+m:     𐌌
+n:     𐌍
+o:     𐌏
+p:     𐌐
+ph:    𐌘
+q:     𐌒
+r:     𐌓
+rs:    𐌛
+s:     𐌔
+sh:    𐌑
+t:     𐌕
+uu:    𐌞
+th:    𐌈
+v:     𐌅
+x:     𐌗
+y:     𐌖
+z:     𐌆

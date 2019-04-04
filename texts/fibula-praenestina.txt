@@ -1,1 +1,30 @@
-Hello world.
+---
+title:
+  eng: Brooch of Palestrina
+  lat: Fibula Praenestina
+abbreviation: fibula
+access:
+  notes: This text is public domain.
+contributors:
+  - abbreviation: DWH
+    familyName:   Hieber
+    givenName:    Daniel William
+    roles:
+      - transcriber
+    notes:
+      - text: DWH transcribed this text from online sources.
+media:
+  - access:
+      notes: This image is public domain. It was retrieved from Wikipedia at https://commons.wikimedia.org/wiki/File:Praeneste_fibula.JPG.
+    content: An image of the Praenete Fibula.
+    contentType: image/jpeg
+    filename: fibula-praenestina.jpg
+    link: https://commons.wikimedia.org/wiki/File:Praeneste_fibula.JPG
+    mediaURL: https://github.com/dwhieb/Old-Latin/blob/master/texts.md
+notes:
+  - text: This is one of the earliest known Old Latin inscriptions, and possibly *the* earliest. It appears on a brooch known as the Praeneste Fibula, dated to the first half of the 7th century BCE.
+---
+\trs-prac manios..med..vhe...vhaked..numasioi
+\tln-lat  MANIUS ME FECIT NUMERIO
+\tln-mod  Mānius mē fecit Numeriō
+\tln-eng  Manius made me for Numerius
