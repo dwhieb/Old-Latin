@@ -1,0 +1,97 @@
+---
+title:
+  eng: Lapis Niger
+  lat: Lapis Niger
+abbreviation: lapis
+access:
+  notes: This text is public domain.
+contributors:
+  - abbreviation: DWH
+    familyName:   Hieber
+    givenName:    Daniel William
+    roles:
+      - transcriber
+    notes:
+      - text: DWH transcribed this text from online sources.
+notes:
+  - text: The Lapis Niger (Latin, “Black Stone”) is an ancient shrine in the Roman Forum which has one of the oldest known Latin inscriptions on its base. The inscription is written in boustrophedon. See the [Wikipedia page](https://en.wikipedia.org/wiki/Lapis_Niger) for more information. The transcript places uncertain words/letters in square brackets (`[word]`), and alternate transcriptions following slashes (`[io/ic]`). Each utterance in this text represents a vertical line on the column.
+media:
+
+  - access:
+      notes: This image is public domain. It was retrieved from Wikipedia at https://en.wikipedia.org/wiki/File:Terme_di_diocleziano,_lapis_niger,_02.JPG.
+    content: A picture of the Lapis Niger stone.
+    contentType: image/jpeg
+    filename: lapis-niger-1.jpg
+    link: https://en.wikipedia.org/wiki/File:Terme_di_diocleziano,_lapis_niger,_02.JPG
+    mediaURL: https://upload.wikimedia.org/wikipedia/commons/1/1f/Terme_di_diocleziano%2C_lapis_niger%2C_02.JPG
+    size: 2596647
+
+  - access:
+      notes: This image is public domain. It was retrieved from Wikipedia at https://en.wikipedia.org/wiki/File:Textlapis.jpg.
+    content: A sketch diagram of the writing on the Lapis Niger, indicating the direction of the line, and an attempted Latin transliteration.
+    contentType: image/jpeg
+    filename: lapis-niger-2.jpg
+    link: https://en.wikipedia.org/wiki/File:Textlapis.jpg
+    mediaURL: https://upload.wikimedia.org/wikipedia/commons/a/ab/Textlapis.jpg
+    size: 120315
+
+  - access:
+      notes: This image is public domain. It was retrieved from Wikipedia at https://en.wikipedia.org/wiki/File:Forum_inscription.jpg.
+    content: A pencil rubbing of the four sides of the of the Lapis Niger.
+    contentType: image/jpeg
+    filename: lapis-niger-3.jpg
+    link: https://en.wikipedia.org/wiki/File:Forum_inscription.jpg
+    mediaURL: https://upload.wikimedia.org/wikipedia/commons/2/25/Forum_inscription.jpg
+    size: 24576
+---
+\schema
+\trs-prac
+\trs-lat
+
+quoiho[i]
+𐌒V𐌏𐌉𐌇𐌏[𐌉]
+
+sakroses
+𐌔𐌀𐌊𐌓𐌏𐌔𐌄𐌔
+
+edsorm
+𐌄𐌃𐌔𐌏𐌓𐌌
+
+ia#ias
+𐌉𐌀#𐌉𐌀𐌔
+
+regei;[ic/io/lo]
+𐌓𐌄𐌂𐌄𐌉⁝[𐌉𐌂/𐌉𐌏/𐌋𐌏]
+
+eyam
+𐌄𐌖𐌀𐌌
+
+qyos;r[ie]
+𐌒𐌖𐌏𐌔⁝𐌓[𐌉𐌄]
+
+m;kalato
+𐌌⁝𐌊𐌀𐌋𐌀𐌕𐌏
+
+rem;ha[b/l/i]
+𐌓𐌄𐌌⁝𐌇𐌀[𐌁/𐌋/𐌉]
+
+[ti]od;io;yxmen
+[𐌕𐌉]𐌏𐌃⁝𐌉𐌏⁝𐌖𐌗𐌌𐌄𐌍
+
+ta;kapia;dotau
+𐌕𐌀⁝𐌊𐌀𐌐𐌉𐌀⁝𐌃𐌏𐌕𐌀V
+
+m;i;te;ri
+𐌌⁝𐌉⁝𐌕𐌄⁝𐌓𐌉
+
+m;qyoiha
+𐌌⁝𐌒𐌖𐌏𐌉𐌇𐌀
+
+velod;neqy
+𐌅𐌄𐌋𐌏𐌃⁝𐌍𐌄𐌒𐌖
+
+od;iouestod
+𐌏𐌃⁝𐌉𐌏V𐌄𐌔𐌕𐌏𐌃
+
+loiuquiod
+𐌋𐌏𐌉V𐌒V𐌉𐌏𐌃

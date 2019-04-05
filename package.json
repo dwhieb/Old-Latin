@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Linguistic data in Old Latin",
   "main": "convert.js",
-  "scripts": {},
+  "scripts": {
+    "convert": "node scripts/convert.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dwhieb/Old-Latin.git"
