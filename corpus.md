@@ -8,7 +8,7 @@
 
 - [x] Forum Inscription
 
-- [ ] Duenos Inscription
+- [x] Duenos Inscription
 
 - [ ] Castor-Pollox Dedication
 
