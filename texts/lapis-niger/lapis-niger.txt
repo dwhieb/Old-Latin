@@ -44,12 +44,8 @@ media:
     mediaURL: https://upload.wikimedia.org/wikipedia/commons/2/25/Forum_inscription.jpg
     size: 24576
 ---
-\schema
-\trs-prac
-\trs-lat
-
-quoiho[i]
-𐌒V𐌏𐌉𐌇𐌏[𐌉]
+\trs-prac quoiho[i]
+\trs-lat 𐌒V𐌏𐌉𐌇𐌏[𐌉]
 
 sakroses
 𐌔𐌀𐌊𐌓𐌏𐌔𐌄𐌔
