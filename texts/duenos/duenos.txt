@@ -26,12 +26,13 @@ media:
     size: 60947
 
   - access:
-      notes: Photo by Nick Thompson. License: Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)
+      notes: 'Photo by Nick Thompson. License: Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)'
     content: Image of the vase on which the Duenos inscription is inscribed.
     contentType: imae/jpeg
     filename: duenos-1.jpg
     link: https://www.flickr.com/photos/pelegrino/42023776182/in/faves-divesgallaecia/
     mediaURL: https://c1.staticflickr.com/1/971/42023776182_c84e368819_b.jpg
+    size: 89600
 ---
 \trs-prac iovesatdeivosqoimedmitatneitedendocosmisuircosied
 \trs-lat  𐌉𐌏𐌅𐌄𐌔𐌀𐌕𐌃𐌄𐌉𐌅𐌏𐌔𐌒𐌏𐌉𐌌𐌄𐌃𐌌𐌉𐌕𐌀𐌕𐌍𐌄𐌉𐌕𐌄𐌃𐌄𐌍𐌃𐌏𐌂𐌏𐌔𐌌𐌉𐌔V𐌉𐌓𐌂𐌏𐌔𐌉𐌄𐌃

@@ -1,0 +1,48 @@
+---
+title:        The Castor-Pollox Dedication
+abbreviation: castor-pollox
+access:
+  notes: This text is public domain.
+contributors:
+  - abbreviation: DWH
+    familyName:   Hieber
+    givenName:    Daniel William
+    roles:
+      - transcriber
+    notes:
+      - text: DWH transcribed this text from online sources.
+notes:
+  - text: This inscription is a dedication to Castor and Pollox, and was found on the site of ancient Lavinium. It has been dated to the fifth century B.C. For additional details see Weinstock (1960) and Castagnoli (1959).
+references:
+  - title:
+    authors:
+      - firstName: Stefan
+        lastName:  Weinstock
+    doi: 10.2307/298293
+    issue: '1-2'
+    pages: '112-118'
+    publication: The Journal of Roman Studies
+    publicationType: journal article
+    volume: 50
+
+  - title:
+    authors:
+      - firstName: F.
+      - lastName:  Castagnoli
+    publication: Studi e materiali
+    publicationType: journal article
+    volume: 30
+media:
+  - access:
+      notes: This image is public domain. It was retrieved from the OhioLink Digital Resource Commons at http://drc.ohiolink.edu/handle/2374.OX/186998.
+    content: Photograph of the Castor-Pollox inscription.
+    contentType: image/jpeg
+    filename: castor-pollox.jpg
+    link: http://drc.ohiolink.edu/handle/2374.OX/186998
+    mediaURL: http://drc.ohiolink.edu/bitstream/handle/2374.OX/186998/CIL%20I%282%29%202.4%2c%202883.jpg?sequence=1
+    size: 3666235
+---
+\trs-prac castorei:podlouqueique:qurois
+\trs-lat  𐌂𐌀𐌔𐌕𐌏𐌓𐌄𐌉⁚𐌐𐌏𐌃𐌋𐌏V𐌒V𐌄𐌉𐌒V𐌄⁚𐌒V𐌓𐌏𐌉𐌔
+\tln-lat  Castorei Podlouqueique qurois
+\tln-eng  To Castor and Pollux, the Dioskouroi.
