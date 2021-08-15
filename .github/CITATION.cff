@@ -1,0 +1,9 @@
+crr-version: 1.1.0
+message: Please cite this corpus as follows.
+authors:
+  - family-names: Hieber
+    given-names:  Daniel
+    orcid:        https://orcid.org/0000-0002-1411-3773
+title:   A corpus of Old Latin
+version: 0.1.0
+doi:     https://github.com/dwhieb/Old-Latin
